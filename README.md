@@ -1,1 +1,1 @@
-This project allows users to add their best photos and get likes from other users to find out who's photos got the most number of likes.
+This project allows users to post their memorable photos
